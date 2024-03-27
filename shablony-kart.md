@@ -2,9 +2,9 @@
 
 ## [Miro](https://miro.com)
 
-<figure><img src=".gitbook/assets/@ashapiro 2024-03-18 at 17.34.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/@ashapiro 2024-03-27 at 13.38.23.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://miro.com/miroverse/experience-process-mapping-xpm-template/?social=copy-link" %}
+{% embed url="https://miro.com/miroverse/xpm-experience-process-mapping/" %}
 
 ## [Excalidraw](https://excalidraw.com/)&#x20;
 
