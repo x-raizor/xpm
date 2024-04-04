@@ -1,0 +1,105 @@
+---
+description: Типовые конфигурации элементов карты
+---
+
+# Приёмы схематизации
+
+Как в языке разные слова, скомбинированные определённым образом, могут выражать одно и то же значение, так и разные комбинации элементов графической нотации могут решать одну и ту же задачу. На схемах для описания схожих ситуаций также могут использоваться разные подходы. В этом разделе приведены шаблонные приёмы решения стандартных ситуаций.
+
+## Cтарт и течение
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Линейный путь с опциональными точками. Вторая точка необязательна, что равносильно возможности перепрыгнуть через неё</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Безусловное разветвление и схождение</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Многовариантный старт от событий</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Многовариантный старт через ключевые точки</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Использование событий для повторных вхождений в фрагменты процесса</p></figcaption></figure>
+
+</div>
+
+
+
+## Ветвления
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ветвление событиями</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ветвление триггером</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ветвление таблицей решений (decision table)</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Цикл</p></figcaption></figure>
+
+</div>
+
+
+
+## Взаимодействия
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Петля взаимодействия «пинг-понг»: посыл, отработка, получение результата</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Синхронизация ключевых точек на разных дорожках. Участвуют оба актора</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Совместные ключевые точки на дорожке одного участника. Маркирует начало совместных точек до следующего указания участников. В примере во второй точке подключается Актор 2, а третья точка вновь относится только к Актору 1</p></figcaption></figure>
+
+</div>
+
+
+
+## Навигация по карте
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Разметка карты группирующими этапами. Обычно выполняется наверху карты на дорожке ведущего актора</p></figcaption></figure>
+
+</div>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Использование значимых событий как маркеров для ориентации в пространстве карты</p></figcaption></figure>
+
+</div>
