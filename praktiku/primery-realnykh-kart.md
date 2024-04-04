@@ -6,8 +6,5 @@
 
 <figure><img src="../.gitbook/assets/Владов, Сервис ремонта техники.jpg" alt=""><figcaption><p>Карта процесса-опыта скорого ремонта компьютерной техники</p></figcaption></figure>
 
-&#x20;
+## [Иные примеры](https://github.com/Byndyusoft/xp-mapping/tree/main/xpm-examples) в базе знаний
 
-{% embed url="https://github.com/Byndyusoft/xp-mapping/tree/main/xpm-examples" %}
-Иные примеры в базе знаний Карты процесса-опыта
-{% endembed %}
