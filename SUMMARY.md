@@ -1,7 +1,7 @@
 # Table of contents
 
 * [О карте процесса-опыта](README.md)
-* [Структура карты и её элементы](struktura-karty-i-eyo-elementy.md)
+* [Структура карты и элементы](struktura-karty-i-elementy.md)
 * [Алгоритм построения карты](algoritm-postroeniya-karty.md)
 * [Обратная связь с автором](obratnaya-svyaz-s-avtorom.md)
 * [Что почитать ещё](chto-pochitat-eshyo.md)
