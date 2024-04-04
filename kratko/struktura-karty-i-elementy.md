@@ -18,5 +18,5 @@
 
 <figure><img src="../.gitbook/assets/КПО. Все материалы - XPM Monochrome Template (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="159">Обозначение</th><th>Описание</th></tr></thead><tbody><tr><td>●</td><td>ключевая точка</td></tr><tr><td>○</td><td>ключевая точка вне контроля</td></tr><tr><td>◠</td><td>опциональная ключевая точки или обход ключевой точки — рисуется поверх кружка ключевой точки</td></tr><tr><td>◇</td><td>триггер или событие</td></tr><tr><td>⎯</td><td>линия тока</td></tr><tr><td>┈</td><td>линия тока с задержкой или обрывом</td></tr><tr><td>⦙</td><td>линия взаимодействия</td></tr></tbody></table>
+<table><thead><tr><th width="86">Знак</th><th>Описание обозначения</th></tr></thead><tbody><tr><td>●</td><td>ключевая точка</td></tr><tr><td>○</td><td>ключевая точка вне контроля</td></tr><tr><td>◠</td><td>опциональная ключевая точки или обход ключевой точки — рисуется поверх кружка ключевой точки</td></tr><tr><td>◇</td><td>триггер или событие</td></tr><tr><td>⎯</td><td>линия тока</td></tr><tr><td>┈</td><td>линия тока с задержкой или обрывом</td></tr><tr><td>⦙</td><td>линия взаимодействия</td></tr></tbody></table>
 
