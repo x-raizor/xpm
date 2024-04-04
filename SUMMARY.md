@@ -7,4 +7,4 @@
 * [Историческая справка](istoricheskaya-spravka.md)
 * [Методологическая справка](metodologicheskaya-spravka.md)
 * [Шаблоны карт](shablony-kart.md)
-* [Обратная связь](obratnaya-svyaz.md)
+* [Обратная связь с автором](obratnaya-svyaz-s-avtorom.md)
