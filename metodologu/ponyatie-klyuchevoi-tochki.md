@@ -8,4 +8,4 @@
 
 Ключевые точки — это не действия людей и не операции. Это группировка операций в единое место.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Отличие ключевых точек от операций</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Отличие ключевых точек от операций</p></figcaption></figure>
