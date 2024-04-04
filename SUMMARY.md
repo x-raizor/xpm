@@ -1,7 +1,8 @@
 # Table of contents
 
 * [О карте процесса-опыта](README.md)
-* [Структура карты и элементы](struktura-karty-i-elementy.md)
+* [Структура карты и элементы](struktura-karty-i-eyo-elementy.md)
+* [Понятие ключевой точки](ponyatie-klyuchevoi-tochki.md)
 * [Алгоритм построения карты](algoritm-postroeniya-karty.md)
 * [Обратная связь с автором](obratnaya-svyaz-s-avtorom.md)
 * [Что почитать ещё](chto-pochitat-eshyo.md)
