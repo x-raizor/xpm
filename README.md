@@ -16,7 +16,7 @@
 
 
 
-<figure><img src=".gitbook/assets/xpm-roles-scheme.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/xpm-roles-scheme.png" alt="" width="563"><figcaption><p>Роли в разработке современных продуктов и услуг, использующие Карту процесса-опыта</p></figcaption></figure>
 
 ### Кому подходит особенно <a href="#user-content-elements" id="user-content-elements"></a>
 
