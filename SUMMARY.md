@@ -11,6 +11,7 @@
 
 ## Практику
 
+* [Стандарт карты](praktiku/standart-karty.md)
 * [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
 * [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
 * [Шаблоны](praktiku/shablony.md)
