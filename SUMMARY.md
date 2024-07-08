@@ -15,7 +15,7 @@
 * [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
 * [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
 * [Шаблоны](praktiku/shablony.md)
-* [Что почитать](praktiku/chto-pochitat.md)
+* [Книга и статья](praktiku/kniga-i-statya.md)
 * [Видеоматериалы](praktiku/videomaterialy.md)
 
 ## Методологу
