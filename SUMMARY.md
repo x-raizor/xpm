@@ -16,6 +16,7 @@
 * [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
 * [Шаблоны](praktiku/shablony.md)
 * [Что почитать](praktiku/chto-pochitat.md)
+* [Видеоматериалы](praktiku/videomaterialy.md)
 
 ## Методологу
 
