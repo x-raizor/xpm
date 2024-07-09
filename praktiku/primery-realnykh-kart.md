@@ -1,5 +1,7 @@
 # Примеры реальных карт
 
+<figure><img src="../.gitbook/assets/Карта гипотез. Процесс фасилитации стратсессии - Карта процесса-опыта фасилитация стратсессии с Картой гипотез.jpg" alt=""><figcaption><p>Процесс фасилитации стратсессии</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Шаблоны Карты процесса-опыта, XPM - Пример 3. Услуга опыт покупки автозапчастей.png" alt=""><figcaption><p>Опыт покупки автозапчастей. Фрагмент</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/XPM обеспечения качества колл-центра.png" alt=""><figcaption><p>Фрагмент процесса обучения колл-центра</p></figcaption></figure>
