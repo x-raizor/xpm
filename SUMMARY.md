@@ -11,12 +11,12 @@
 
 ## Практику
 
-* [Стандарт карты](praktiku/standart-karty.md)
-* [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
 * [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
-* [Шаблоны](praktiku/shablony.md)
-* [Книга и статья](praktiku/kniga-i-statya.md)
+* [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
+* [Стандарт карты](praktiku/standart-karty.md)
 * [Видеоматериалы](praktiku/videomaterialy.md)
+* [Книга и статья](praktiku/kniga-i-statya.md)
+* [Шаблоны](praktiku/shablony.md)
 
 ## Методологу
 
