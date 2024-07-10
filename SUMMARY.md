@@ -24,6 +24,7 @@
 * [История и сравнение метода](metodologu/istoriya-i-sravnenie-metoda.md)
 * [Глоссарий](metodologu/glossarii.md)
 
-## Контакты
+## Выходные данные
 
-* [Cвязь с автором](kontakty/cvyaz-s-avtorom.md)
+* [Пресс-релиз](vykhodnye-dannye/press-reliz.md)
+* [Связь с автором](vykhodnye-dannye/svyaz-s-avtorom.md)
