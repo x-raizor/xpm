@@ -10,31 +10,31 @@ description: Типовые конфигурации элементов карт
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Линейный путь с опциональными точками. Вторая точка необязательна, что равносильно возможности перепрыгнуть через неё</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Линейный путь с опциональными точками. Вторая точка необязательна, что равносильно возможности перепрыгнуть через неё</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Безусловное разветвление и схождение</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Безусловное разветвление и схождение</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Многовариантный старт от событий</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Многовариантный старт от событий</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Многовариантный старт через ключевые точки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Многовариантный старт через ключевые точки</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Использование событий для повторных вхождений в фрагменты процесса</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Использование событий для повторных вхождений в фрагменты процесса</p></figcaption></figure>
 
 </div>
 
@@ -44,13 +44,13 @@ description: Типовые конфигурации элементов карт
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ветвление событиями</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Ветвление событиями</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ветвление триггером</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ветвление триггером</p></figcaption></figure>
 
 </div>
 
