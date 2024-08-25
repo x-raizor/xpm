@@ -14,7 +14,7 @@
 * [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
 * [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
 * [Стандарт карты](praktiku/standart-karty.md)
-* [Видео-материалы](praktiku/video-materialy.md)
+* [Видеоматериалы](praktiku/videomaterialy.md)
 * [Книга и статья](praktiku/kniga-i-statya.md)
 * [Шаблоны](praktiku/shablony.md)
 
