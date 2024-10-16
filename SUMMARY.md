@@ -4,7 +4,8 @@
 
 * [О карте процесса-опыта](README.md)
 * [Структура карты и её элементы](kratko/struktura-karty-i-eyo-elementy.md)
-* [Порядок построения](kratko/poryadok-postroeniya.md)
+* [Порядок построения](kratko/poryadok-postroeniya/README.md)
+  * [Перед картированием](kratko/poryadok-postroeniya/pered-kartirovaniem.md)
 * [Концепции  и понятия](kratko/koncepcii-i-ponyatiya/README.md)
   * [Ключевые точки](kratko/koncepcii-i-ponyatiya/klyuchevye-tochki.md)
   * [Потоки и каналы](kratko/koncepcii-i-ponyatiya/potoki-i-kanaly.md)

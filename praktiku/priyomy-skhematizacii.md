@@ -10,13 +10,13 @@ description: Типовые конфигурации элементов карт
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Линейный путь с опциональными точками. Вторая точка необязательна, что равносильно возможности перепрыгнуть через неё</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Линейный путь с опциональными точками. Вторая точка необязательна, что равносильно возможности перепрыгнуть через неё</p></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Безусловное разветвление и схождение</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Безусловное разветвление и схождение</p></figcaption></figure>
 
 </div>
 
