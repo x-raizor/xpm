@@ -3,7 +3,7 @@
 ## Кратко
 
 * [О карте процесса-опыта](README.md)
-* [Структура карты и элементы](kratko/struktura-karty-i-elementy.md)
+* [Структура карты и её элементы](kratko/struktura-karty-i-eyo-elementy.md)
 * [Порядок построения](kratko/poryadok-postroeniya.md)
 * [Концепции  и понятия](kratko/koncepcii-i-ponyatiya/README.md)
   * [Ключевые точки](kratko/koncepcii-i-ponyatiya/klyuchevye-tochki.md)
