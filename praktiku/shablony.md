@@ -4,6 +4,14 @@ description: Шаблоны Карты процесса-опыта в систе
 
 # Шаблоны
 
+## [Holst.so](https://holst.so/)
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://github.com/Byndyusoft/xp-mapping/raw/refs/heads/main/templates/xpm-template.holst" %}
+Шаблон для Холста в базе знаний
+{% endembed %}
+
 ## [Miro](https://miro.com)
 
 <figure><img src="../.gitbook/assets/@ashapiro 2024-03-27 at 13.38.23.png" alt=""><figcaption></figcaption></figure>
