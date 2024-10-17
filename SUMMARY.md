@@ -7,14 +7,15 @@
 * [Порядок построения](kratko/poryadok-postroeniya/README.md)
   * [1. Подготовка к картированию](kratko/poryadok-postroeniya/1.-podgotovka-k-kartirovaniyu.md)
   * [2. Выявление дорожек участников](kratko/poryadok-postroeniya/2.-vyyavlenie-dorozhek-uchastnikov.md)
-* [Концепции  и понятия](kratko/koncepcii-i-ponyatiya/README.md)
-  * [Ключевые точки](kratko/koncepcii-i-ponyatiya/klyuchevye-tochki.md)
-  * [Потоки и каналы](kratko/koncepcii-i-ponyatiya/potoki-i-kanaly.md)
+  * [3. Выявление ключевых точек](kratko/poryadok-postroeniya/3.-vyyavlenie-klyuchevykh-tochek.md)
 
 ## Практику
 
-* [Примеры реальных карт](praktiku/primery-realnykh-kart.md)
-* [Приёмы схематизации](praktiku/priyomy-skhematizacii.md)
+* [Важные понятия](praktiku/vazhnye-ponyatiya/README.md)
+  * [Ключевые точки](praktiku/vazhnye-ponyatiya/klyuchevye-tochki.md)
+  * [Потоки и каналы](praktiku/vazhnye-ponyatiya/potoki-i-kanaly.md)
+* [Типовые ситуации](praktiku/tipovye-situacii.md)
+* [Примеры карт](praktiku/primery-kart.md)
 * [Стандарт карты](praktiku/standart-karty.md)
 * [Видеоматериалы](praktiku/videomaterialy.md)
 * [Книга и статья](praktiku/kniga-i-statya.md)
