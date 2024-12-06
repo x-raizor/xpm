@@ -16,11 +16,12 @@
   * [Потоки и каналы](praktiku/vazhnye-ponyatiya/potoki-i-kanaly.md)
   * [Искусственное — естественное](praktiku/vazhnye-ponyatiya/iskusstvennoe-estestvennoe.md)
 * [Синтаксис процесса-опыта](praktiku/tipovye-situacii.md)
-* [Стандарт карты](praktiku/standart-karty.md)
+* [Типовые ошибки](praktiku/tipovye-oshibki.md)
 * [Примеры карт](praktiku/primery-kart.md)
+* [Стандарт карты](praktiku/standart-karty.md)
 * [Видеоматериалы](praktiku/videomaterialy.md)
 * [Книга и статья](praktiku/kniga-i-statya.md)
-* [Шаблоны](praktiku/shablony.md)
+* [Шаблоны КПО](praktiku/shablony.md)
 
 ## Методологу
 
