@@ -10,7 +10,7 @@ description: Шаблоны Карты процесса-опыта в систе
 
 {% @github-files/github-code-block %}
 
-## [Miro](https://miro.com)
+## [Miro](https://miro.com/miroverse/xpm-experience-process-mapping/)
 
 <figure><img src="../.gitbook/assets/@ashapiro 2024-03-27 at 13.38.23.png" alt=""><figcaption></figcaption></figure>
 
