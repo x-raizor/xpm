@@ -14,5 +14,7 @@
 
 <figure><img src="../.gitbook/assets/КПО ассимиляции КПО в случае личной траектории.png" alt=""><figcaption><p>Ассимиляция Карты процесса-опыта в случае личной траектории</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/КПО подсистемы ценообразования.png" alt=""><figcaption><p>Процессы ценообразования</p></figcaption></figure>
+
 ## [ПДФ-версии](https://github.com/Byndyusoft/xp-mapping/tree/main/xpm-examples) примеров в базе знаний
 
