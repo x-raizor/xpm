@@ -12,5 +12,7 @@
 
 <figure><img src="../.gitbook/assets/02-xpm-example-printout.png" alt=""><figcaption><p>Услуга печати в копи-центре</p></figcaption></figure>
 
-## [Примеры](https://github.com/Byndyusoft/xp-mapping/tree/main/xpm-examples) в базе знаний
+<figure><img src="../.gitbook/assets/КПО ассимиляции КПО в случае личной траектории.png" alt=""><figcaption><p>Ассимиляция Карты процесса-опыта в случае личной траектории</p></figcaption></figure>
+
+## [ПДФ-версии](https://github.com/Byndyusoft/xp-mapping/tree/main/xpm-examples) примеров в базе знаний
 
