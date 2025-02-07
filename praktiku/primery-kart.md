@@ -4,6 +4,8 @@
 
 <figure><img src="../.gitbook/assets/01-xpm-example-advert.png" alt=""><figcaption><p>Сервис покупки рекламы на цифровых экранах</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/КПО. Процесс деплоя пакетов (1).png" alt=""><figcaption><p>Процесс деплоя пакетов, DevOps</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Шаблоны Карты процесса-опыта, XPM - Пример 3. Услуга опыт покупки автозапчастей.png" alt=""><figcaption><p>Опыт покупки автозапчастей. Фрагмент</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/XPM обеспечения качества колл-центра.png" alt=""><figcaption><p>Фрагмент процесса обучения колл-центра</p></figcaption></figure>
