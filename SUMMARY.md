@@ -25,7 +25,7 @@
 
 ## Методологу
 
-* [Назначение метода](metodologu/naznachenie-metoda.md)
+* [Функция метода](metodologu/funkciya-metoda.md)
 * [Место в проектировании](metodologu/naznachenie-i-mesto-metoda.md)
 * [Схема и синтаксис](metodologu/skhema-i-sintaksis.md)
 * [Генезис метода](metodologu/istoriya-i-sravnenie-metoda.md)
