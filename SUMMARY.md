@@ -16,7 +16,7 @@
   * [Ключевые точки](praktiku/vazhnye-ponyatiya/klyuchevye-tochki.md)
   * [Потоки и каналы](praktiku/vazhnye-ponyatiya/potoki-i-kanaly.md)
   * [Искусственное — естественное](praktiku/vazhnye-ponyatiya/iskusstvennoe-estestvennoe.md)
-* [Паттерны схематизации](praktiku/tipovye-situacii.md)
+* [Паттерны картирования](praktiku/tipovye-situacii.md)
 * [Примеры карт](praktiku/primery-kart.md)
 * [Стандарт карты](praktiku/standart-karty.md)
 * [Видеоматериалы](praktiku/videomaterialy.md)
