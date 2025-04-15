@@ -3,7 +3,7 @@
 ## Кратко
 
 * [О карте процесса-опыта](README.md)
-* [Отличия от CJM и BPMN](kratko/otlichiya-ot-cjm-i-bpmn.md)
+* [Отличия от CJM и BPMN](kratko/xpm-cjm-bpmn.md)
 * [Структура карты и её элементы](kratko/struktura-karty-i-eyo-elementy.md)
 * [Порядок построения](kratko/poryadok-postroeniya/README.md)
   * [1. Подготовка к картированию](kratko/poryadok-postroeniya/1.-podgotovka-k-kartirovaniyu.md)
