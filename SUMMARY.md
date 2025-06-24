@@ -9,7 +9,10 @@
   * [1. Подготовка к картированию](kratko/poryadok-postroeniya/1.-podgotovka-k-kartirovaniyu.md)
   * [2. Введение дорожек участников](kratko/poryadok-postroeniya/2.-vyyavlenie-dorozhek-uchastnikov.md)
   * [3. Выявление ключевых точек](kratko/poryadok-postroeniya/3.-vyyavlenie-klyuchevykh-tochek.md)
-* [Типовые ошибки](kratko/tipovye-oshibki.md)
+* [Типовые ошибки](kratko/tipovye-oshibki/README.md)
+  * [Ошибки структуры карты](kratko/tipovye-oshibki/oshibki-struktury-karty.md)
+  * [Ошибки содержания точек](kratko/tipovye-oshibki/oshibki-soderzhaniya-tochek.md)
+  * [Ошибки оформления](kratko/tipovye-oshibki/oshibki-oformleniya.md)
 
 ## Практику
 
