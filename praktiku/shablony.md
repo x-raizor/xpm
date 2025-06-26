@@ -14,7 +14,14 @@ description: Шаблоны Карты процесса-опыта в систе
 
 <figure><img src="../.gitbook/assets/@ashapiro 2024-03-27 at 13.38.23.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://miro.com/miroverse/xpm-experience-process-mapping/" %}
+## Unidraw
+
+* [Шаблон](https://unidraw.io/docs/templates/experience-process-map/)
+* [Стандарт нотации](https://unidraw.io/docs/templates/xp-map-notation/)
+
+## Эсборд
+
+<figure><img src="../.gitbook/assets/Untitled 2 (1).png" alt=""><figcaption><p>Добавить из шаблона в разделе «Диаграммы и процессы»</p></figcaption></figure>
 
 ## [Figma](https://www.figma.com/)
 
