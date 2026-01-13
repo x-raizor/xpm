@@ -26,6 +26,7 @@
 * [Видеоматериалы](praktiku/videomaterialy.md)
 * [Книга и статья](praktiku/kniga-i-statya.md)
 * [Шаблоны КПО](praktiku/shablony.md)
+* [Каналы КПО](praktiku/kanaly-kpo.md)
 
 ## Методологу
 
