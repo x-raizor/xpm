@@ -4,7 +4,7 @@ description: Шаблоны Карты процесса-опыта в систе
 
 # Шаблоны КПО
 
-## [Holst.so](https://github.com/Byndyusoft/xp-mapping/raw/refs/heads/main/templates/xpm-template.holst)
+## [Holst.so](https://app.holst.so/board/template/26cf6635-d0c0-4a72-953a-2eef7788cff1)
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
