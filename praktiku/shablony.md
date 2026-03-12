@@ -1,14 +1,18 @@
 ---
-description: Шаблоны Карты процесса-опыта в системах создания схем и диаграмм
+description: "Шаблоны Карты процесса-опыта в системах создания схем и\_диаграмм"
 ---
 
 # Шаблоны КПО
 
-## [Holst.so](https://app.holst.so/board/template/26cf6635-d0c0-4a72-953a-2eef7788cff1)
+## Holst.so
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+#### [Шаблон А](https://app.holst.so/board/template/26cf6635-d0c0-4a72-953a-2eef7788cff1)&#x20;
 
-{% @github-files/github-code-block %}
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+#### [Шаблон Б](https://app.holst.so/board/template/79e23903-69ca-461f-903d-fb50e8beba5a)
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## [Miro](https://miro.com/miroverse/xpm-experience-process-mapping/)
 

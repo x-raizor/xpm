@@ -1,4 +1,4 @@
-# Структура карты и её элементы
+# Структура карты и её элементы
 
 <figure><img src="../.gitbook/assets/i-09.svg" alt=""><figcaption><p>Схематичное изображение Карты процесса-опыта. Ключевые точки вместо названий пронумерованы. Аннотация под точками схематично изображена серыми блоками</p></figcaption></figure>
 
@@ -32,3 +32,8 @@
 
 <table><thead><tr><th width="86">Знак</th><th>Описание обозначения</th></tr></thead><tbody><tr><td>●</td><td>ключевая точка</td></tr><tr><td>○</td><td>ключевая точка вне контроля</td></tr><tr><td>◠</td><td>опциональная ключевая точки, рисуется поверх кружка ключевой точки как её обход</td></tr><tr><td>◇</td><td>триггер или событие</td></tr><tr><td>⎯</td><td>линия тока</td></tr><tr><td>┈</td><td>линия тока с задержкой или обрывом</td></tr><tr><td>⦙</td><td>линия взаимодействия</td></tr></tbody></table>
 
+## [Шаблон](https://app.holst.so/board/template/79e23903-69ca-461f-903d-fb50e8beba5a) карты
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+[Другие шаблоны](../praktiku/shablony.md)
